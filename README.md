@@ -4,9 +4,11 @@
 
 Integrantes:
 Gabriel Faria - RM 84483
+
 Nicolau Narcizo - RM84460
+
 Vinícius Joaquim - RM84296
 
-Entrega para nossa Gloabl Solution - IA
+Entrega para nossa Global Solution 2023 - IA
 
-(LINK PRO VÍDEO)
+Link para o Pitch: (LINK PRO VÍDEO)
